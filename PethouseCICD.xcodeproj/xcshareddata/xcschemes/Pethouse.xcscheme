@@ -16,9 +16,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "BB97D0F92E159F4F0039262A"
-               BuildableName = "Pethouse.app"
-               BlueprintName = "Pethouse"
-               ReferencedContainer = "container:Pethouse.xcodeproj">
+               BuildableName = "PethouseCICD.app"
+               BlueprintName = "PethouseCICD"
+               ReferencedContainer = "container:PethouseCICD.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -38,7 +38,7 @@
                BlueprintIdentifier = "A6F3E92E2F5B497B001DFFE3"
                BuildableName = "PethouseTests.xctest"
                BlueprintName = "PethouseTests"
-               ReferencedContainer = "container:Pethouse.xcodeproj">
+               ReferencedContainer = "container:PethouseCICD.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -58,9 +58,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "BB97D0F92E159F4F0039262A"
-            BuildableName = "Pethouse.app"
-            BlueprintName = "Pethouse"
-            ReferencedContainer = "container:Pethouse.xcodeproj">
+            BuildableName = "PethouseCICD.app"
+            BlueprintName = "PethouseCICD"
+            ReferencedContainer = "container:PethouseCICD.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "BB97D0F92E159F4F0039262A"
-            BuildableName = "Pethouse.app"
-            BlueprintName = "Pethouse"
-            ReferencedContainer = "container:Pethouse.xcodeproj">
+            BuildableName = "PethouseCICD.app"
+            BlueprintName = "PethouseCICD"
+            ReferencedContainer = "container:PethouseCICD.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

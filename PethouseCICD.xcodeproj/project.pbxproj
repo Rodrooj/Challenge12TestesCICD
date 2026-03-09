@@ -18,7 +18,7 @@
 
 /* Begin PBXFileReference section */
 		A6F3E92F2F5B497B001DFFE3 /* PethouseTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PethouseTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		BB97D0FA2E159F4F0039262A /* Pethouse.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Pethouse.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		BB97D0FA2E159F4F0039262A /* PethouseCICD.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PethouseCICD.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -64,7 +64,7 @@
 		BB97D0FB2E159F4F0039262A /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				BB97D0FA2E159F4F0039262A /* Pethouse.app */,
+				BB97D0FA2E159F4F0039262A /* PethouseCICD.app */,
 				A6F3E92F2F5B497B001DFFE3 /* PethouseTests.xctest */,
 			);
 			name = Products;
@@ -96,9 +96,9 @@
 			productReference = A6F3E92F2F5B497B001DFFE3 /* PethouseTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		BB97D0F92E159F4F0039262A /* Pethouse */ = {
+		BB97D0F92E159F4F0039262A /* PethouseCICD */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BB97D1052E159F4F0039262A /* Build configuration list for PBXNativeTarget "Pethouse" */;
+			buildConfigurationList = BB97D1052E159F4F0039262A /* Build configuration list for PBXNativeTarget "PethouseCICD" */;
 			buildPhases = (
 				BB97D0F62E159F4F0039262A /* Sources */,
 				BB97D0F72E159F4F0039262A /* Frameworks */,
@@ -111,11 +111,11 @@
 			fileSystemSynchronizedGroups = (
 				BB97D0FC2E159F4F0039262A /* Pethouse */,
 			);
-			name = Pethouse;
+			name = PethouseCICD;
 			packageProductDependencies = (
 			);
 			productName = Pethouse;
-			productReference = BB97D0FA2E159F4F0039262A /* Pethouse.app */;
+			productReference = BB97D0FA2E159F4F0039262A /* PethouseCICD.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -137,7 +137,7 @@
 					};
 				};
 			};
-			buildConfigurationList = BB97D0F52E159F4F0039262A /* Build configuration list for PBXProject "Pethouse" */;
+			buildConfigurationList = BB97D0F52E159F4F0039262A /* Build configuration list for PBXProject "PethouseCICD" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -151,7 +151,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				BB97D0F92E159F4F0039262A /* Pethouse */,
+				BB97D0F92E159F4F0039262A /* PethouseCICD */,
 				A6F3E92E2F5B497B001DFFE3 /* PethouseTests */,
 			);
 		};
@@ -194,7 +194,7 @@
 /* Begin PBXTargetDependency section */
 		A6F3E9342F5B497B001DFFE3 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = BB97D0F92E159F4F0039262A /* Pethouse */;
+			target = BB97D0F92E159F4F0039262A /* PethouseCICD */;
 			targetProxy = A6F3E9332F5B497B001DFFE3 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -206,7 +206,7 @@
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 44F49W8V3S;
+				DEVELOPMENT_TEAM = ZNR8M4DYPL;
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 26.0;
 				MARKETING_VERSION = 1.0;
@@ -228,7 +228,7 @@
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 44F49W8V3S;
+				DEVELOPMENT_TEAM = ZNR8M4DYPL;
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 26.0;
 				MARKETING_VERSION = 1.0;
@@ -372,7 +372,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 44F49W8V3S;
+				DEVELOPMENT_TEAM = ZNR8M4DYPL;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -386,7 +386,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = br.com.gustavosouto.Pethouse;
+				PRODUCT_BUNDLE_IDENTIFIER = br.com.rodrigopereira.PethouseCICD;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -401,7 +401,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 44F49W8V3S;
+				DEVELOPMENT_TEAM = ZNR8M4DYPL;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -415,7 +415,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = br.com.gustavosouto.Pethouse;
+				PRODUCT_BUNDLE_IDENTIFIER = br.com.rodrigopereira.PethouseCICD;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_COMPILATION_MODE = singlefile;
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -437,7 +437,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		BB97D0F52E159F4F0039262A /* Build configuration list for PBXProject "Pethouse" */ = {
+		BB97D0F52E159F4F0039262A /* Build configuration list for PBXProject "PethouseCICD" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				BB97D1032E159F4F0039262A /* Debug */,
@@ -446,7 +446,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		BB97D1052E159F4F0039262A /* Build configuration list for PBXNativeTarget "Pethouse" */ = {
+		BB97D1052E159F4F0039262A /* Build configuration list for PBXNativeTarget "PethouseCICD" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				BB97D1062E159F4F0039262A /* Debug */,
