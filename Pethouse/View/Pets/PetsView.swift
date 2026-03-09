@@ -73,6 +73,7 @@ struct PetsView: View {
                         Image(systemName: "plus")
                             .tint(.accentColor)
                     }
+                    .accessibilityIdentifier("pets_add_button")
                 }
             }
             

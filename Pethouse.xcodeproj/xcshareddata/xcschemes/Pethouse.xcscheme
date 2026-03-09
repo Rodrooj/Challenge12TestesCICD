@@ -41,6 +41,17 @@
                ReferencedContainer = "container:Pethouse.xcodeproj">
             </BuildableReference>
          </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "559EEB902F5F3681001F4112"
+               BuildableName = "PethouseUITests.xctest"
+               BlueprintName = "PethouseUITests"
+               ReferencedContainer = "container:Pethouse.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
    </TestAction>
    <LaunchAction
