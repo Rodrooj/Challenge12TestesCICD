@@ -114,7 +114,7 @@
 			name = PethouseCICD;
 			packageProductDependencies = (
 			);
-			productName = Pethouse;
+			productName = PethouseCICD;
 			productReference = BB97D0FA2E159F4F0039262A /* PethouseCICD.app */;
 			productType = "com.apple.product-type.application";
 		};
