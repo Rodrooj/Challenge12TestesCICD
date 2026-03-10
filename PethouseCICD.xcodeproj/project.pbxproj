@@ -27,9 +27,9 @@
 			path = PethouseTests;
 			sourceTree = "<group>";
 		};
-		BB97D0FC2E159F4F0039262A /* Pethouse */ = {
+		BB97D0FC2E159F4F0039262A /* PethouseCICD */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = Pethouse;
+			path = PethouseCICD;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -55,7 +55,7 @@
 		BB97D0F12E159F4F0039262A = {
 			isa = PBXGroup;
 			children = (
-				BB97D0FC2E159F4F0039262A /* Pethouse */,
+				BB97D0FC2E159F4F0039262A /* PethouseCICD */,
 				A6F3E9302F5B497B001DFFE3 /* PethouseTests */,
 				BB97D0FB2E159F4F0039262A /* Products */,
 			);
@@ -109,7 +109,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				BB97D0FC2E159F4F0039262A /* Pethouse */,
+				BB97D0FC2E159F4F0039262A /* PethouseCICD */,
 			);
 			name = PethouseCICD;
 			packageProductDependencies = (
