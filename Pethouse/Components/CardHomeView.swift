@@ -85,7 +85,7 @@ struct CardHomeView: View {
 
 #Preview {
 
-    var schedule = MockData().schedules[0]
+    let schedule = MockData().schedules[0]
 
     CardHomeView(schedule: schedule)
 }
