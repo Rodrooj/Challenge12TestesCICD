@@ -8,7 +8,7 @@
 import Testing
 import Foundation
 
-@testable import Pethouse
+@testable import PethouseCICD
 
 
 struct PetTests {
